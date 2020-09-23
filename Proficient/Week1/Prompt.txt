@@ -1,1 +1,0 @@
-Using numpy, generate 3-Dimensional, normal noise in the red channel of the image given. Save this resulting image as YourName.py
