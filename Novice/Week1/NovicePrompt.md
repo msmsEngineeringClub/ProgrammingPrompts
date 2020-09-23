@@ -7,7 +7,7 @@ classes.append(English)
 currentHw = 20
 hwDone = "5"
 newHomework = 6
-currentHw += currentHw - hwDone + newHw
+currentHw += hwDone + newHw
 print(classes)
 print(currentHw)
 ```
