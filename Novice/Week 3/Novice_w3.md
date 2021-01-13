@@ -6,4 +6,4 @@
 
 **3)** Checks if input is a triangular number
 
-***Bonus) Checks if input is a perfect number
+***Bonus) Checks if input is a perfect number***
