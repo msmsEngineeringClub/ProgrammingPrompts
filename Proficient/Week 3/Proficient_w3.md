@@ -8,4 +8,4 @@ For the prompt we want you to remake the game. You don't need a start menu and y
 
 # 2] Fibonacci 
 
-Create a function that take an integer, n, as an argument. Then it should return the nth number in the Fibonacci sequence.
+Create a function that takes an integer, n, as an argument. Then it should return the nth number in the Fibonacci sequence.
